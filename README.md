@@ -1,6 +1,11 @@
 # 4d-plugin-simple-postgres-client
 Simple PostgreSQL client
 
+##Platform
+
+| carbon | cocoa | win32 | win64 |
+|:------:|:-----:|:---------:|:---------:|
+|🆗|🆗|🆗|🆗|
 
 ###Example
 
