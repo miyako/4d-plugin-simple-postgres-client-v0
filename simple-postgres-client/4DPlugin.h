@@ -15,7 +15,7 @@
 #define UTF32NATIVE "UTF-32LE"
 #endif
 
-#define NDEBUG
+//#define NDEBUG
 
 #include "libjson/libjson.h"
 
