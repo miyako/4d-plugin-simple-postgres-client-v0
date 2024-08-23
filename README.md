@@ -1,3 +1,5 @@
+![deprecated](https://img.shields.io/badge/-deprecated-inactive)
+
 # 4d-plugin-simple-postgres-client
 
 Simple PostgreSQL client.
